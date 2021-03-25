@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VSingh20682
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Ethical Hacking
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
